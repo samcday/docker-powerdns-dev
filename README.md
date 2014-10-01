@@ -2,7 +2,7 @@
 
 > A programmable DNS setup for your local development needs.
 
-This Dockerfile prepares a PowerDNS 3.4-rc.1 server with the new [RESTful API](https://github.com/PowerDNS/pdnsapi) enabled.
+This Dockerfile prepares a PowerDNS 3.4-rc.1 server with the new [RESTful API](https://github.com/PowerDNS/pdns/tree/master/pdns/docs/httpapi) enabled.
 
 ## Quickstart
 
